@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./OIP.jiff]
+![/OIP.jfif]
 
 Este repositório serve de exemplo para o Curso de GIT
